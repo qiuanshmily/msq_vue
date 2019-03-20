@@ -1,0 +1,37 @@
+[{
+    "account": "qiuan",
+    "createTime": 1547432605000,
+    "id": 1006,
+    "loginCode": null,
+    "nickname": "??",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "roleIdStr": "1005,1002,1003,1004,1001",
+    "roles": "管理员,测试工程师,项目经理,技术总监,程序员"
+}, {
+    "account": "qiuan",
+    "createTime": 1547432605000,
+    "id": 1006,
+    "loginCode": null,
+    "nickname": "??",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "roleIdStr": "1005,1002,1003,1004,1001",
+    "roles": "管理员,测试工程师,项目经理,技术总监,程序员"
+}, {
+    "account": "qiuan",
+    "createTime": 1547432605000,
+    "id": 1006,
+    "loginCode": null,
+    "nickname": "??",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "roleIdStr": "1005,1002,1003,1004,1001",
+    "roles": "管理员,测试工程师,项目经理,技术总监,程序员"
+}, {
+    "account": "qiuan",
+    "createTime": 1547432605000,
+    "id": 1006,
+    "loginCode": null,
+    "nickname": "??",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "roleIdStr": "1005,1002,1003,1004,1001",
+    "roles": "管理员,测试工程师,项目经理,技术总监,程序员"
+}]
